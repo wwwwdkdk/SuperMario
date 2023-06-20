@@ -4,13 +4,7 @@
 后面的关卡需要在Vector中存储地图信息。
 
 基于QT ,使用C++编写
-开发环境为：MacOs + QtCreator，请使用QtCreator打开super_mary.pro文件
-
-注意！：使用低分辨率屏幕或windows打开游戏画面可能出现一些小问题，类似下面的图片，
-
-
-
-C2CC754A889AC6F0F864FD3B2A698B71.jpg![image](https://user-images.githubusercontent.com/63393116/113740398-3e57cd80-9733-11eb-815a-90b955409a94.png)
+开发环境为：MacOs + QtCreator 5.12，请使用QtCreator打开super_mary.pro文件
 
 
 ## mac系统下运行截图
