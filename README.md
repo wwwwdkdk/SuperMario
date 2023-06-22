@@ -3,8 +3,8 @@
 一个简单的超级玛丽游戏，很早之前学习Qt写的，逻辑现在不是很清楚了，需要优化的地方有很多，代码写的也不太严谨，只实现了第一关，
 后面的关卡需要在Vector中存储地图信息。
 
-基于QT ,使用C++编写
-开发环境为：MacOs + QtCreator 5.12，请使用QtCreator打开super_mary.pro文件
+基于QT,使用C++编写
+开发环境为：MacOs（Intel） + QtCreator 5.12，请使用QtCreator打开super_mary.pro文件
 
 
 ## mac系统下运行截图
