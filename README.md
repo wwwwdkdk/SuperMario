@@ -6,7 +6,6 @@
 基于QT,使用C++编写
 开发环境为：MacOs（Intel） + QtCreator 5.12，请使用QtCreator打开super_mary.pro文件
 
-
 ## mac系统下运行截图
 ![{6D29B9AA-E413-5550-45D1-21299AC7843F}](https://user-images.githubusercontent.com/63393116/113793329-9534c580-977a-11eb-8034-864b9ab6401f.JPG)
 ![{260B721D-28BC-E2A2-492E-486825446C55}](https://user-images.githubusercontent.com/63393116/113793359-a54ca500-977a-11eb-8e00-63bac1e4ba2a.JPG)
