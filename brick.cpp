@@ -74,13 +74,11 @@ void Brick::BrickInit() {
 }
 
 void Brick::BrickShatter(QVector < QVector < int >> ::iterator
-it)
-{
+it){
 left_shatter_x = *it->begin();
 right_shatter_x = *it->begin() + 20;
 left_shatter_y = right_shatter_y = *(it->begin() + 1);
 shatter_state = 1;
-
 }
 
 
