@@ -1,7 +1,6 @@
 #include "mushroom.h"
 #include<QDebug>
-MushRoom::MushRoom()
-{
+MushRoom::MushRoom(){
     MushRoom_Init();
 }
 
@@ -38,15 +37,13 @@ void MushRoom::Move_state(){
             mushroom_x += 2;
             mushroom_state++;
         }
-        for (QVector < QVector < int >> ::iterator it = brick->m.begin()->begin(); it != brick->m.begin()->end();it++)
-        {
+        for (QVector < QVector < int >> ::iterator it = brick->m.begin()->begin(); it != brick->m.begin()->end();it++){
             if (*it->begin() - mushroom_x >= -50 && *it->begin() - mushroom_x <= 30 &&
                 *(it->begin() + 1) <= mushroom_y + 40 && *(it->begin() + 1) >= mushroom_y && *(it->begin() + 2) != 0) {
                 return;
             }
         }
-        for (QVector < QVector < int >> ::iterator it = unknown->m.begin()->begin(); it != unknown->m.begin()->end();it++)
-        {
+        for (QVector < QVector < int >> ::iterator it = unknown->m.begin()->begin(); it != unknown->m.begin()->end();it++){
             if (*it->begin() - mushroom_x >= -50 && *it->begin() - mushroom_x <= 30 &&
                 *(it->begin() + 1) <= mushroom_y + 40 && *(it->begin() + 1) >= mushroom_y) {
                 return;
