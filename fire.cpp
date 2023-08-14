@@ -119,8 +119,7 @@ void Fire::Fire_state() {
         x2 -= 10;
     }
     for (QVector < QVector < int >> ::iterator it = master->m.begin()->begin(); it != master->m.begin()->end();
-    it++)
-    {
+    it++){
         if (x > *it->begin() && x <= *it->begin() + 30 && *(it->begin() + 2) == 1 && y >= *(it->begin() + 1) &&
             y <= *(it->begin() + 1) + 40) {
             is_have = false;
@@ -144,8 +143,7 @@ void Fire::Fire_state() {
         }
     }
     for (QVector < QVector < int >> ::iterator it = brick->m.begin()->begin(); it != brick->m.begin()->end();
-    it++)
-    {
+    it++){
         if (x > *it->begin() + 10 && x <= *it->begin() + 30 && y > *(it->begin() + 1) && y < *(it->begin() + 1) + 40) {
             is_have = false;
             x = 0;
@@ -166,8 +164,7 @@ void Fire::Fire_state() {
     }
 
     for (QVector < QVector < int >> ::iterator it = pipe->long_m.begin()->begin(); it != pipe->long_m.begin()->end();
-    it++)
-    {
+    it++){
         if (x > *it->begin() + 10 && x <= *it->begin() + 30 && y > *(it->begin() + 1) &&
             y <= *(it->begin() + 1) + 100) {
             is_have = false;
@@ -188,8 +185,7 @@ void Fire::Fire_state() {
         }
     }
     for (QVector < QVector < int >> ::iterator it = pipe->short_m.begin()->begin(); it != pipe->short_m.begin()->end();
-    it++)
-    {
+    it++){
         if (x > *it->begin() + 10 && x <= *it->begin() + 30 && y > *(it->begin() + 1) && y <= *(it->begin() + 1) + 50) {
             is_have = false;
             x = 0;
