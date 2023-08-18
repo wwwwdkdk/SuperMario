@@ -4,7 +4,7 @@
 实现了吃蘑菇，怪物，火球，跳跃等功能
 
 基于QT,使用C++编写
-开发环境为：MacOs（Intel） + QtCreator 5.12，请使用QtCreator打开super_mary.pro文件
+开发环境为：MacOS（Intel） + QtCreator 5.12，请使用QtCreator打开super_mary.pro文件
 
 ## mac系统下运行截图
 ![{6D29B9AA-E413-5550-45D1-21299AC7843F}](https://user-images.githubusercontent.com/63393116/113793329-9534c580-977a-11eb-8034-864b9ab6401f.JPG)
