@@ -13,8 +13,4 @@
 ![{206D182D-E06B-0D18-9053-F34F7CC505EC}](https://user-images.githubusercontent.com/63393116/113793400-c3b2a080-977a-11eb-9f50-44b7712d7dc3.JPG)
 ![{A16F9553-1F52-9FE6-503B-05690B7A8800}](https://user-images.githubusercontent.com/63393116/113793406-c8775480-977a-11eb-98fe-8082cbd393f8.JPG)
 
-遇到了什么问题欢迎联系我，微信公众号：写代码好好玩
-
-![publicAccount e4aa6280](https://user-images.githubusercontent.com/63393116/201521723-9da08dcd-a37a-44b4-bed5-02ddbde5d593.jpg)
-
 
